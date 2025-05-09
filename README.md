@@ -1,20 +1,15 @@
-# Sample Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
 Microloan DApp - Project README
  Microloan DApp
 A decentralized microloan lending platform built with Solidity, Hardhat, React, and Ethers.js v6. Borrowers can request microloans, and the lender (contract deployer) can fund, monitor, and track repayment.
- Project Overview
+
+LINKS SHARED
+============
+gitHub::  https://github.com/Muragijemariya/Microloan_dapp
+
+YouTube:: https://www.youtube.com/watch?v=3IyllRad-8g
+
+
+Project Overview
 This project is divided into two main parts:
 - contracts/: The backend logic written in Solidity using the Hardhat framework.
 - frontend/: The React app that interacts with the smart contract using Ethers.js v6.
@@ -58,7 +53,7 @@ npx hardhat run scripts/deploy.js --network localhost
 Update frontend/src/contractData.json with the deployed address.
 3. Frontend Setup
 cd frontend
-npm install
+npm install ` ````````````````.</:>
 npm start
  How It Works
 - Borrowers can request loans by specifying an amount and duration.
@@ -87,5 +82,4 @@ main().catch((error) => {
 });
  License
 This project is licensed under the MIT License.
- Author
 Made by MURAGIJEMARIYA Delphine (https://github.com/yourgithub)
