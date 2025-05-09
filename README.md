@@ -2,8 +2,8 @@ Microloan DApp - Project README
  Microloan DApp
 A decentralized microloan lending platform built with Solidity, Hardhat, React, and Ethers.js v6. Borrowers can request microloans, and the lender (contract deployer) can fund, monitor, and track repayment.
 
-LINKS SHARED
-============
+###  SHARED LINKS
+
 gitHub::  https://github.com/Muragijemariya/Microloan_dapp
 
 YouTube:: https://www.youtube.com/watch?v=3IyllRad-8g
